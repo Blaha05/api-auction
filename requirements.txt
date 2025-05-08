@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+alembic
+asyncpg
+sqlalchemy
+pydantic
+python-jose
+pyjwt
+pydantic[email]
+pydantic-settings
+bcrypt
+python-multipart
+boto3
+celery[redis]
+redis
+eventlet
+fastapi-cache2
